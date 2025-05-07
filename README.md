@@ -10,8 +10,8 @@
 ### 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
