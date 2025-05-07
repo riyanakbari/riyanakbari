@@ -23,7 +23,7 @@
 <p>
   <a href="https://linkedin.com/in/riyanakbari"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="https://instagram.com/riyanakbari"><img src="https://img.shields.io/badge/-Instagram-%23dc2743?style=flat&logo=instagram"></a>
-  <a href="https://riyanakbari.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web"></a>
+  <a href="https://riyanakbari.github.io"><img src="https://img.shields.io/badge/-Portfolio-white?style=flat&logo=web"></a>
 </p>
 
 ---
