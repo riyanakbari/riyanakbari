@@ -1,8 +1,8 @@
 <h1>Hello 👋, I'm Riyan</h1>
 <h3>An enthusiast of UI/UX Design and Front-End Development</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+%E2%9D%A4+building+creative+solutions;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+<p>
+  I am currently pursuing a degree in Informatics at Telkom University Surabaya.
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ---
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=riyanakbari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=riyanakbari&label=Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <!--
