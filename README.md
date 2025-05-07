@@ -7,62 +7,29 @@
 
 ---
 
-### 🧠 About Me
-
-- 🔭 I’m currently working on **BizTrade** – a collaborative marketing app for MSMEs
-- 🌱 I’m learning more about **AI, UI/UX, and simulation modeling**
-- 🎯 Interests: Digital marketing, data visualization, and building purposeful apps
-- 💬 Ask me about **Python, C, Web Dev, or process improvement ideas**
-- 📫 How to reach me: `riyan@email.com`
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love turning ideas into beautiful code and useful tools!
-
----
-
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Riyan's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Coming Soon: How MSMEs Can Use AI to Grow](#)
-- [Design Thinking for Developers](#)
-- [Marketing Tactics You Can Automate in 2025](#)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ### 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web"></a>
+<p>
+  <a href="https://linkedin.com/in/riyanakbari"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://instagram.com/riyanakbari"><img src="https://img.shields.io/badge/-Instagram-%23dc2743?style=flat&logo=instagram"></a>
+  <a href="https://riyanakbari.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web"></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=riyanakbari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <!--
