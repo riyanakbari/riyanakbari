@@ -15,6 +15,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
 
 ---
 
