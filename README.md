@@ -2,7 +2,7 @@
 <h3>An enthusiast of UI/UX Design and Front-End Development</h3>
 
 <p>
-  I am currently pursuing a degree in Informatics at Telkom University Surabaya.
+  UI/UX and Graphic Designer with 3+ years of experience creating digital experiences and visual assets across web, mobile, SaaS platforms, branding, and social media. 
 </p>
 
 ---
